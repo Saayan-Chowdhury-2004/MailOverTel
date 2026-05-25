@@ -1,4 +1,4 @@
-# 📬 MailOverTel
+# MailOverTel
 
 A self-hosted AI-powered email automation system that converts natural language prompts into properly structured emails and sends them automatically through Telegram.
 
@@ -337,6 +337,6 @@ MailOverTel started as a simple automation experiment and is gradually evolving 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Saayan Chowdhury
